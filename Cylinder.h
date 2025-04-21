@@ -10,6 +10,7 @@ class Cylinder
 private:
     int radius;
     int height;
+    double pi=3.14159265;
 public:
     Cylinder() : radius(0), height(0) {}
     Cylinder(int r, int h){

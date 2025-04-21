@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall
-TARGET = Lab07
+TARGET = OOP_Lab7
 OBJS = Cylinder.o main.o
 
 all: $(TARGET)
